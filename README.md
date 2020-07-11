@@ -1,3 +1,3 @@
 # emagz-website
 
-[stmarysmagz.gq ](stmarysmagz.gq)
+[stmarysmagz](http://stmarysmagz.gq/)
